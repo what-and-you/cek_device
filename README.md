@@ -12,6 +12,9 @@ pkg update
 pkg upgrade
 ```
 ```
+pip install requests
+```
+```
 https://github.com/what-and-you/cek_device.git
 ```
 # cara run script
